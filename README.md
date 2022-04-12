@@ -4,4 +4,4 @@
 
 # Back-end
 
-The main back-end for this project is kept in a separate repository https://github.com/easy-machines/orchestra
+The main back-end for this project is kept in a separate [repository](https://github.com/cronblocks/Orchestra).
